@@ -4,11 +4,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and le
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning [Technology or Language You're Learning]
-- 🤔 I’m looking for help with [Any Areas Where You Need Help]
-- 💬 Ask me about [Your Areas of Expertise]
-- 📫 How to reach me: [rachrisgamer@gmail.com]
-- ⚡ Fun fact: [I'm someone who does things on a whim when I'm bored]
+- 🌱 I’m currently learning javascript nodejs python
+- 🤔 I’m looking for help with Any Areas Where You Need Help
+- 📫 How to reach me: rachrisgamer@gmail.com
+- ⚡ Fun fact: I'm someone who does things on a whim when I'm bored
 
 ## 🛠️ Skills
 
