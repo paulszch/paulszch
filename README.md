@@ -35,15 +35,9 @@ I'm a passionate developer who enjoys coding, exploring new technologies, and bu
 
 ---
 
-## 📂 Featured Projects
+## 🎭 Cekoshi – Temukan Oshi JKT48-mu!  
 
-Here are a few projects I've worked on:
-
-### [Project Name](#)
-⭐ A brief description of the project.
-
-### [Another Project Name](#)
-⭐ Another project description goes here.
+[Cekoshi](https://cekoshi.dreamliner21.xyz) adalah game sederhana untuk mengetahui siapa oshi-mu di JKT48. Jawab beberapa pertanyaan, dan lihat hasilnya! Siapa tahu hasilnya mengejutkan? 😆
 
 ---
 
