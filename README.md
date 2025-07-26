@@ -1,4 +1,4 @@
-# Hi there, I'm Paull 👋
+# Hi there, I'm [ NAMA_YOU ] 👋
 
 Welcome to my GitHub profile!  
 I'm a passionate developer who enjoys coding, exploring new technologies, and building cool projects. Here's a little more about me:
@@ -9,7 +9,7 @@ I'm a passionate developer who enjoys coding, exploring new technologies, and bu
 
 - 🌱 I’m currently learning **JavaScript**, **Node.js**, and **Python**.  
 - 🤔 Open to collaboration or guidance on **areas where you think I can improve**.  
-- 📫 Reach me at **[rachrisgamer@gmail.com](mailto:rachrisgamer@gmail.com)**.  
+- 📫 Reach me at **[@gmail.com](mailto:@gmail.com)**.  
 - ⚡ Fun fact: I often do things spontaneously, especially when I’m bored!  
 
 ---
@@ -45,7 +45,7 @@ I'm a passionate developer who enjoys coding, exploring new technologies, and bu
 
 Feel free to reach out or follow me on these platforms:
 
-- 🌟 [Instagram](https://instagram.com/initiaann_0705)  
+- 🌟 [Instagram](https://instagram.com/paulchristi__)  
 - 🖥️ [GitHub](https://github.com/dreamliner21)
 
 ---
